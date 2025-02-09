@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Camera, LifeBuoy, ShieldCheck, Mail, ArrowRight, Wave, CheckCircle } from "lucide-react";
+import { Camera, LifeBuoy, ShieldCheck, Mail, ArrowRight, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
